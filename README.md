@@ -1,4 +1,10 @@
-### Hi, I'm Sandra 👋
+### Hi, I'm Sandra Tamay 👋
+ { “role” : “Full-stack developer Elixir | React”,
+   “data” : 
+     { 
+      "Linkedin" : "https://www.linkedin.com/in/sandra-marveli-tamay-dzul-480298200"
+     }
+ }
 
 <!--
 **smtamay/smtamay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
