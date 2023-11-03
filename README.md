@@ -1,11 +1,34 @@
 
- <img align='right' src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="260">
- <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Sandra Tamay</h1>
+
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey!, I'm Sandra Tamay
+        </samp>
+</h3>
  
- ### Full-stack developer Elixir | React
+ <p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=Al+Siam"></a>
+    <br>
+    「 Full-stack developer Elixir | React from <b>México</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
+<p align="center">
+ <a href="" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
+ <a href="https://www.linkedin.com/in/sandra-marveli-tamay-dzul-480298200" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+ 
+</p>
  ____
- <h4>Skills</h4>
-<p>
+ <h4 align="center">Skills</h4>
+<p align="center">
+
+<br/>
   <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
   <img src="https://img.shields.io/badge/Phoenix-F05032?style=for-the-badge&logo=&logoColor=white">
   <img src="https://img.shields.io/badge/GraphQL-DB7093?style=for-the-badge&logo=&logoColor=white">
