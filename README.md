@@ -15,11 +15,9 @@
     <br>
   </samp>
 </p>
-<p align="center">
  <p align="center" id="contact">
   <a href= "https://www.linkedin.com/in/sandra-marveli-tamay-dzul-480298200"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
   <a href= "mailto:tm1947417@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-</p>
 </p>
  ____
  <h4 align="center">Languages:</h4>
