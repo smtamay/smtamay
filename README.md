@@ -10,7 +10,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Al+Siam"></a>
     <br>
-    「 Full-stack developer Elixir | React from <b>México</b> 」
+    「 Backend developer 」
     <br>
     <br>
   </samp>
